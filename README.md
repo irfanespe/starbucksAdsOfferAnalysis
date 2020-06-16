@@ -7,7 +7,7 @@ This project is performed to gain new insight for company development. I focused
 1. Finding the highest completed rate offer. 
 2. Inspecting customer segment who completed the most offer.
 
-## Medium Link : https://medium.com/@irfanespe/from-e-commerce-data-to-business-insight-fd4cd4b7968
+## Medium Link : https://medium.com/@irfanespe/starbucks-offering-trial-and-data-science-165039a144a7
 
 ## Programming Language
 
